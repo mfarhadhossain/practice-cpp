@@ -2,7 +2,7 @@ repo_name: Frdhsn/practice-cpp
 report_id: 3778c060b51c5ff4a3cabf6e44d662d5
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T18:55:13+00:00'
+timestamp: '2024-02-29T19:36:02+00:00'
 requested_by: jwasham
 provider: github
 branch: master
@@ -41,7 +41,7 @@ tools:
   detection_source_url: https://github.com/Frdhsn/practice-cpp
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
